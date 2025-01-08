@@ -1,3 +1,13 @@
 # Ruby Expansion Pack
 Ruby Expansion Pack è un pacchetto Add-on che aggiunge a Minecraft Bedrock Edition oggetti, armi, armature e blocchi del rubino, uno dei minerali entrati nella leggenda del gioco.
 
+## Oggetti
+- [Spada di Rubino]()
+- [Piccone di Rubino]()
+- [Ascia di Rubino]()
+- [Zappa di Rubino]()
+- [Pala di Rubino]()
+- [Elmetto di Rubino]()
+- [Corsaletto di Rubino]()
+- [Gambali di Rubino]()
+- [Stivali di Rubino]()
